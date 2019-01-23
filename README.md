@@ -2,6 +2,9 @@ About this fork
 ==================================
 
 - Updated packages & scripts
+- Uses @babel/present-env for future-proof ESNext
+- Added my own collection of linters
+- Add support for urlencoded forms to bodyParser
 
 Express & ES6 REST API Boilerplate
 ==================================
