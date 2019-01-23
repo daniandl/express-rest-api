@@ -26,6 +26,12 @@ app.use(
     limit: config.bodyLimit
   })
 )
+app.use(
+  bodyParser.urlencoded({
+    // to support URL-encoded bodies
+    extended: true
+  })
+)
 
 // connect to db
 initializeDb(db => {
