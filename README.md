@@ -1,3 +1,8 @@
+About this fork
+==================================
+
+- Updated packages & scripts
+
 Express & ES6 REST API Boilerplate
 ==================================
 
