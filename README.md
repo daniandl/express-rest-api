@@ -5,6 +5,7 @@ About this fork
 - Uses @babel/present-env for future-proof ESNext
 - Added my own collection of linters
 - Add support for urlencoded forms to bodyParser
+- Merged https://github.com/developit/express-es6-rest-api/pull/59
 
 Express & ES6 REST API Boilerplate
 ==================================
